@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Habit Track App</string>
+
+    <!-- Label for overflow menu option that inserts fake habit data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all habit data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Habits</string>
+
+    <!-- Title for the activity to add a new habit [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_habit">Add a Habit</string>
+
+    <!-- Label for editor menu option to save habit and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current habit [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for importance category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_importance">Importance</string>
+
+    <!-- Label for hour category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_hour">Hour</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_name">Insert name</string>
+
+    <!-- Text hint for importance field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_importance">Is important?</string>
+
+    <!-- Text hint for hour field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_hour">Hour</string>
+
+    <!-- Label for dropdown menu option if the habit's importance is 0 [CHAR LIMIT=20] -->
+    <string name="importance_no">Not important</string>
+
+    <!-- Label for dropdown menu option if the habit's importance is 1 [CHAR LIMIT=20] -->
+    <string name="importance_yes">Very important</string>
+
+    <!-- Information about how may items are in the base -->
+    <string name="habit_table_contains">The habit table contains</string>
+    <string name="habits">habits.</string>
+
+</resources>
